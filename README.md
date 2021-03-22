@@ -2,15 +2,15 @@
 Cloud_Computing_Service
 ==
 
-自我介紹
+Introduction
 --
 
-姓名 : Guan-Lun Wu 吳貫綸
+Name : Guan-Lun Wu 吳貫綸
 
-主修 : 資料科學
+Major : Data Science
 
-學歷 : 東吳大學
+School : Soochow University
 
-作業學習紀錄
+Homework
 --
 [homework1--What do you think of Cloud Computing?](AWS_HW/HW1/about_cloud_computing.md)
