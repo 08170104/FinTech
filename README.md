@@ -32,9 +32,8 @@ Project_of_Nan Shan Life Insurance Company, Ltd.
 <h3> 導師群 </h3>
 
 ```
- 東吳資科蔡芸琤老師
- 台大財金石百達老師
-
+ 東吳資科-蔡芸琤老師
+ 台大財金-石百達老師
 ```
 <h3> 說明 </h3>
 
