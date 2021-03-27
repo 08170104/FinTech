@@ -15,7 +15,7 @@ Homework
 --
 [homework1--What do you think of Cloud Computing?](AWS_HW/HW1/about_cloud_computing.md)
 
-[homework2--Build a Website using Amazon EC2 with LAMP]()
+[homework2--Build a Website using Amazon EC2 with LAMP](https://youtu.be/Xa08TndrD40)
 
 [homework3--Build a Website using Amazon S3(Versioning) and AWS Amplify]()
 
