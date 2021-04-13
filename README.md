@@ -19,7 +19,7 @@ Homework
 
 [homework3--Build a Website using Amazon S3(Versioning) and AWS Amplify](https://www.youtube.com/watch?v=jYmsDfYAn28&ab_channel=%E5%90%B3%E8%B2%AB%E7%B6%B8)
 
-[homework4--Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda]()
+[homework4--Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://www.youtube.com/watch?v=OagaQ71tIOA&ab_channel=%E5%90%B3%E8%B2%AB%E7%B6%B8)
 
 [homework5--Create a Database using Amazon RDS or Amazon DynamoDB]()
 
