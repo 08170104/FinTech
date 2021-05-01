@@ -21,7 +21,7 @@ Homework
 
 [homework4--Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://www.youtube.com/watch?v=OagaQ71tIOA&ab_channel=%E5%90%B3%E8%B2%AB%E7%B6%B8)
 
-[homework5--Create a Database using Amazon RDS or Amazon DynamoDB]()
+[homework5--Create a Database using Amazon RDS or Amazon DynamoDB](https://www.youtube.com/watch?v=Fs18kXsKIxo&ab_channel=%E5%90%B3%E8%B2%AB%E7%B6%B8)
 
 [homework6--Create a Docker Container or Build your own Project Services]()
 
