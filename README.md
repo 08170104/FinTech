@@ -84,6 +84,8 @@ Project_of_Nan Shan Life Insurance Company, Ltd.
 
 進度會報
 --
-[第一次進度會報](AWS_HW/HW1/about_cloud_computing.md)
+[第一次進度會報](https://www.youtube.com/watch?v=QZvrZBfVpuI)
 
 [第二次進度會報](https://docs.google.com/presentation/d/1bA9zN9P1UvMmEM4LntHUPKZ8eUm5ey1qt7R1QO2RmLA/edit?ts=60989746#slide=id.p)
+
+[第三次進度會報](https://www.youtube.com/watch?v=DcNfLfRSekw)
