@@ -97,3 +97,6 @@ Project_of_Nan Shan Life Insurance Company, Ltd.
 
 [十五分鐘介紹影片](https://www.youtube.com/watch?v=YFBpGaHVnz8)
 
+專案成果投影片
+--
+[成果投影片](https://github.com/08170104/FinTech/blob/main/%E5%8D%97%E5%B1%B1%E6%96%87%E6%9C%AC%E5%88%86%E6%9E%90-T4.pdf)
